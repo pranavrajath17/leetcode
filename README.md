@@ -12,6 +12,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
 | [0901-online-stock-span](https://github.com/pranavrajath17/leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/pranavrajath17/leetcode/tree/master/0901-online-stock-span) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
