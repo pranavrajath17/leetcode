@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pranavrajath17/leetcode/tree/master/0035-search-insert-position) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pranavrajath17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pranavrajath17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/pranavrajath17/leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -21,6 +23,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pranavrajath17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/pranavrajath17/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -34,4 +37,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pranavrajath17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
