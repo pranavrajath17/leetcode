@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
