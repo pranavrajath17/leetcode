@@ -16,6 +16,7 @@
 | [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranavrajath17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/pranavrajath17/leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -63,4 +64,16 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
