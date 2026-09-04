@@ -92,6 +92,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/pranavrajath17/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/pranavrajath17/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/pranavrajath17/leetcode/tree/master/0394-decode-string) |
 ## Dynamic Programming
