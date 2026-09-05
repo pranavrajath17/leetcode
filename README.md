@@ -58,6 +58,7 @@
 | [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/pranavrajath17/leetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/pranavrajath17/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/pranavrajath17/leetcode/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pranavrajath17/leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/pranavrajath17/leetcode/tree/master/0735-asteroid-collision) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
