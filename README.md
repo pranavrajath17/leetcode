@@ -13,6 +13,7 @@
 | [0735-asteroid-collision](https://github.com/pranavrajath17/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/pranavrajath17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/pranavrajath17/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pranavrajath17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/pranavrajath17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
