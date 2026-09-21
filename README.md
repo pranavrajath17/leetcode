@@ -39,6 +39,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/pranavrajath17/leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/pranavrajath17/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -88,6 +89,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pranavrajath17/leetcode/tree/master/0496-next-greater-element-i) |
@@ -98,6 +100,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/pranavrajath17/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/pranavrajath17/leetcode/tree/master/0622-design-circular-queue) |
@@ -145,4 +148,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pranavrajath17/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
