@@ -104,6 +104,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/pranavrajath17/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/pranavrajath17/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -116,6 +117,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/pranavrajath17/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/pranavrajath17/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/pranavrajath17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/pranavrajath17/leetcode/tree/master/0394-decode-string) |
