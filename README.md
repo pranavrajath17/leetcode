@@ -104,6 +104,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavrajath17/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pranavrajath17/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/pranavrajath17/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -163,4 +164,20 @@
 | ------- |
 | [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/pranavrajath17/leetcode/tree/master/0460-lfu-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavrajath17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavrajath17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavrajath17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavrajath17/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
