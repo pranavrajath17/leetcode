@@ -13,6 +13,7 @@
 | [0622-design-circular-queue](https://github.com/pranavrajath17/leetcode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/pranavrajath17/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/pranavrajath17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1470-shuffle-the-array](https://github.com/pranavrajath17/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pranavrajath17/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pranavrajath17/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/pranavrajath17/leetcode/tree/master/2104-sum-of-subarray-ranges) |
