@@ -12,6 +12,7 @@
 | [0496-next-greater-element-i](https://github.com/pranavrajath17/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranavrajath17/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/pranavrajath17/leetcode/tree/master/0622-design-circular-queue) |
+| [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/pranavrajath17/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/pranavrajath17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pranavrajath17/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/pranavrajath17/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/pranavrajath17/leetcode/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/pranavrajath17/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/pranavrajath17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
@@ -143,6 +146,7 @@
 | [0134-gas-station](https://github.com/pranavrajath17/leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/pranavrajath17/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/pranavrajath17/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Simulation
 |  |
 | ------- |
@@ -188,4 +192,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pranavrajath17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
