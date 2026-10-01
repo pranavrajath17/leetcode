@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/pranavrajath17/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/pranavrajath17/leetcode/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/pranavrajath17/leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranavrajath17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pranavrajath17/leetcode/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/pranavrajath17/leetcode/tree/master/0134-gas-station) |
