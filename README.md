@@ -17,6 +17,7 @@
 | [0622-design-circular-queue](https://github.com/pranavrajath17/leetcode/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/pranavrajath17/leetcode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/pranavrajath17/leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/pranavrajath17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pranavrajath17/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pranavrajath17/leetcode/tree/master/1470-shuffle-the-array) |
@@ -155,6 +156,7 @@
 | [0435-non-overlapping-intervals](https://github.com/pranavrajath17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pranavrajath17/leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/pranavrajath17/leetcode/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
