@@ -80,6 +80,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/pranavrajath17/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/pranavrajath17/leetcode/tree/master/0402-remove-k-digits) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pranavrajath17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0455-assign-cookies](https://github.com/pranavrajath17/leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/pranavrajath17/leetcode/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pranavrajath17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/pranavrajath17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
 |  |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pranavrajath17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
 |  |
 | ------- |
