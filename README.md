@@ -84,6 +84,7 @@
 | [0402-remove-k-digits](https://github.com/pranavrajath17/leetcode/tree/master/0402-remove-k-digits) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranavrajath17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/pranavrajath17/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1903-largest-odd-number-in-string](https://github.com/pranavrajath17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranavrajath17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/pranavrajath17/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/pranavrajath17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1903-largest-odd-number-in-string](https://github.com/pranavrajath17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/pranavrajath17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranavrajath17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
