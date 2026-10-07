@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/pranavrajath17/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/pranavrajath17/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/pranavrajath17/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/pranavrajath17/leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranavrajath17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pranavrajath17/leetcode/tree/master/0085-maximal-rectangle) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pranavrajath17/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/pranavrajath17/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/pranavrajath17/leetcode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/pranavrajath17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pranavrajath17/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pranavrajath17/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/pranavrajath17/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/pranavrajath17/leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/pranavrajath17/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/pranavrajath17/leetcode/tree/master/0410-split-array-largest-sum) |
