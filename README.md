@@ -84,6 +84,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/pranavrajath17/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/pranavrajath17/leetcode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/pranavrajath17/leetcode/tree/master/0412-fizz-buzz) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranavrajath17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/pranavrajath17/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/pranavrajath17/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -181,6 +182,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pranavrajath17/leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/pranavrajath17/leetcode/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/pranavrajath17/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pranavrajath17/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -198,6 +200,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pranavrajath17/leetcode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/pranavrajath17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranavrajath17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
