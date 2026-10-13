@@ -111,6 +111,7 @@
 | [0110-balanced-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0110-balanced-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0110-balanced-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/pranavrajath17/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pranavrajath17/leetcode/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +153,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pranavrajath17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pranavrajath17/leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/pranavrajath17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
 |  |
@@ -273,6 +278,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
