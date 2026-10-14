@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/pranavrajath17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pranavrajath17/leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/pranavrajath17/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/pranavrajath17/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/pranavrajath17/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -110,6 +111,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -134,6 +136,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -142,6 +145,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -254,6 +258,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pranavrajath17/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
