@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pranavrajath17/leetcode/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/pranavrajath17/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/pranavrajath17/leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/pranavrajath17/leetcode/tree/master/0901-online-stock-span) |
@@ -85,6 +86,7 @@
 | [0020-valid-parentheses](https://github.com/pranavrajath17/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/pranavrajath17/leetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/pranavrajath17/leetcode/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/pranavrajath17/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/pranavrajath17/leetcode/tree/master/0402-remove-k-digits) |
@@ -113,6 +115,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -124,6 +127,7 @@
 | [0101-symmetric-tree](https://github.com/pranavrajath17/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -138,6 +142,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -287,6 +292,7 @@
 | [0101-symmetric-tree](https://github.com/pranavrajath17/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pranavrajath17/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
