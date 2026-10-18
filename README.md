@@ -122,6 +122,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/pranavrajath17/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/pranavrajath17/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/pranavrajath17/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Hash Table
 |  |
 | ------- |
