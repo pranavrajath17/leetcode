@@ -256,6 +256,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/pranavrajath17/leetcode/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranavrajath17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/pranavrajath17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranavrajath17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -313,4 +314,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pranavrajath17/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranavrajath17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
