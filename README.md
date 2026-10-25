@@ -93,6 +93,7 @@
 | [0402-remove-k-digits](https://github.com/pranavrajath17/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/pranavrajath17/leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/pranavrajath17/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/pranavrajath17/leetcode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranavrajath17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/pranavrajath17/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/pranavrajath17/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -166,6 +167,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/pranavrajath17/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pranavrajath17/leetcode/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/pranavrajath17/leetcode/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
