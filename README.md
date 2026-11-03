@@ -22,6 +22,7 @@
 | [0455-assign-cookies](https://github.com/pranavrajath17/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/pranavrajath17/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranavrajath17/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/pranavrajath17/leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/pranavrajath17/leetcode/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/pranavrajath17/leetcode/tree/master/0735-asteroid-collision) |
@@ -184,6 +185,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/pranavrajath17/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/pranavrajath17/leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/pranavrajath17/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranavrajath17/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/pranavrajath17/leetcode/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -195,6 +197,7 @@
 | [0435-non-overlapping-intervals](https://github.com/pranavrajath17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pranavrajath17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pranavrajath17/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/pranavrajath17/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranavrajath17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/pranavrajath17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -249,6 +252,7 @@
 | [0435-non-overlapping-intervals](https://github.com/pranavrajath17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pranavrajath17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pranavrajath17/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/pranavrajath17/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pranavrajath17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/pranavrajath17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/pranavrajath17/leetcode/tree/master/0860-lemonade-change) |
@@ -275,6 +279,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavrajath17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/pranavrajath17/leetcode/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranavrajath17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
 |  |
@@ -307,6 +312,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pranavrajath17/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/pranavrajath17/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/pranavrajath17/leetcode/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
